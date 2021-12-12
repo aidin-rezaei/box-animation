@@ -1,4 +1,4 @@
 ### box animation border
 
 
-<img align="left" width="30%" src="demo.gif">
+<img align="center" width="100%" src="demo.gif">
